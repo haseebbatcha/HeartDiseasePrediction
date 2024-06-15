@@ -10,7 +10,7 @@ Data Cleaning and Preprocessing: The collected data underwent thorough cleaning 
 
 Exploratory Data Analysis (EDA): Exploratory data analysis techniques were applied to gain insights into the dataset's characteristics and relationships between variables. Visualizations were generated to understand the distribution and correlation of medical features with the target variable.
 
-Model Building: The XGBoost machine learning model was selected for training due to its effectiveness in handling complex datasets and achieving high accuracy in classification tasks. The dataset was split into training and testing sets, and the XGBoost model was trained on the training data.
+Model Building: The Support Vector Machine learning model was selected for training due to its effectiveness in handling complex datasets and achieving high accuracy in classification tasks. The dataset was split into training and testing sets, and the XGBoost model was trained on the training data.
 
 Model Evaluation: The trained model was evaluated using appropriate performance metrics to assess its predictive accuracy and generalization ability. Techniques such as cross-validation were employed to ensure robustness and reliability of the model.
 
